@@ -4,7 +4,7 @@ var otherDeli = ["Steven", "Blake", "Avi"];
 // adds a person to the line
 
 function takeANumber(katzDeliLine, name) {
-  katzDeli.push.Ada;
+  katzDeli.push;
   console.log(`Welcome, ${name}. You are number 1 in line.`);
 }
 
