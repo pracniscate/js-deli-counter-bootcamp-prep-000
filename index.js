@@ -8,3 +8,6 @@ function takeANumber(katzDeliLine, name) {
   return katzDeli;
 }
 
+// appends the person the end of the line if there are already people on it
+
+
