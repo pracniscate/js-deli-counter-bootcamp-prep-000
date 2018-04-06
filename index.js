@@ -5,7 +5,7 @@ var otherDeli = ["Steven", "Blake", "Avi"];
 
 function takeANumber(katzDeliLine, name) {
   katzDeliLine.push(name);
-  return("Welcome, + name + You are number 1 in line.`);
+  return("Welcome, + name + ". You are number " + katzDeliLine.length + " in line.");
 }
 
 // appends the person the end of the line if there are already people on it
