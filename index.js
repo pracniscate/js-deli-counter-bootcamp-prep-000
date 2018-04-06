@@ -30,5 +30,4 @@ function currentLine(line) {
   x = x.slice(0, x.length-2);
   return "The line is currently: " + x;
   }
-  
 }
