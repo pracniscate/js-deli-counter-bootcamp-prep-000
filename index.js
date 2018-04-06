@@ -1,5 +1,4 @@
 var katzDeli = [];
-var otherDeli = ["Steven", "Blake", "Avi"];
 
 /* adds a person to the line
 appends the person the end of the line if there are already people on it
