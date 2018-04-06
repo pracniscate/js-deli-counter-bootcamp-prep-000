@@ -19,7 +19,9 @@ function nowServing(x) {
   }
 }
 
-function currentLine(line) {
+
+
+/* function currentLine(line) {
   var x = [];
   if (line.length === 0) {
     return "The line is currently empty.";
@@ -30,4 +32,4 @@ function currentLine(line) {
   x = x.slice(0, x.length-2);
   return "The line is currently: " + x;
   }
-}
+} */
