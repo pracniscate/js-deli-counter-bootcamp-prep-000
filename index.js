@@ -21,6 +21,8 @@ function nowServing(x) {
 
 function nowServing(x) {
   if (x.length > 0) {
-    
+    return("Currently serving" + name + ".");
+  } else {
+    return("There is nobody waiting to be served!");
   }
 }
