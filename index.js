@@ -18,3 +18,9 @@ function nowServing(x) {
     return "Currently serving" + name + ".";
   }
 }
+
+function nowServing(x) {
+  if (x.length > 0) {
+    
+  }
+}
